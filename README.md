@@ -53,9 +53,6 @@ Canal de humor sobre fútbol mexicano y la Champions League. Bromas, análisis i
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 
 
 </td><td valign="top" width="50%">
