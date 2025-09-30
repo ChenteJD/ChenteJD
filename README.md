@@ -65,7 +65,7 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin:5px; transition: transform 0.3s;" />
 <img src="https://vite.dev/logo.svg" alt="Vite" height="40" style="margin:5px;" />
 <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg" alt="Android Studio" height="40" style="margin:5px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="Power BI" height="40" style="margin:5px;" />
+<img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerBI_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" alt="Power BI" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="margin:5px;" />
