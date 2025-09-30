@@ -1,131 +1,98 @@
-## Hola soy Vicente Ortega  
-  
 
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+# 👋 Hola, soy Vicente Ortega
+
+<div align="center">
+
+<a href="https://github.com/ChenteJD" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/vicente-ortega" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.behance.net/vicentejared" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/iamrishavanand" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.behance.net/vicente jared" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-  
 
+</div>
 
+---
 
-### 🚀 Sobre mí  
+## 🌟 Sobre mí
 
-Soy ingeniero en entornos virtuales y negocios digitales. Me especializo en:
-- 🎨 Diseño (branding, identidad visual y diseño editorial)
-- 🎮 Modelado 3D para videojuegos
-- 💻 Programación (Python, C++, HTML, CSS, MySQL)
-- 📸 Fotografía y producción de documentales
-- 📰 Periodismo y creación de contenido
+Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por combinar tecnología, creatividad y datos para desarrollar proyectos innovadores.  
 
-## 📌 Proyectos Destacados
-### 🎥 **Fuera de Lugar** (Canal de videos)
-Canal de humor sobre fútbol mexicano y la Champions League. Bromas, análisis irreverente y bloopers incluidos. 
-- 🏆 Comentaristas: **Pamela Rafael y Edwin Donovan**
-- 🎯 Público: 12 a 35 años
-- 🎬 Plataforma: TikTok y más
+**Especialidades y habilidades:**
 
-### 🎮 **Videojuegos**
-- Desarrollo de un **videojuego para PC y consolas** (con microtransacciones)
-- Planeación de un **segundo videojuego** en el futuro
+- 🎨 Diseño: Branding, identidad visual y diseño editorial  
+- 🎮 3D: Modelado para videojuegos (Blender, Unity)  
+- 💻 Programación: Python, C++, HTML, CSS, MySQL  
+- 📊 Análisis de datos: **Certificado en Power BI**  
+- 📰 Producción de contenido: Fotografía, periodismo y documentales  
+- 📌 Gestión de proyectos: Planificación, seguimiento y organización de tareas
 
-### 🌐 **Diseño Web**
-- Creación de la **página web para un canal televisivo**
-- Proyecto en 8 fases, con énfasis en **diseño visual innovador**
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+### 🎥 Fuera de Lugar
+- Humor sobre fútbol mexicano y Champions League  
+- Comentaristas: Pamela Rafael y Edwin Donovan  
+- Público: 12 a 35 años  
+- Plataforma: TikTok y otras redes  
+
+### 🎮 Videojuegos
+- Desarrollo de un **videojuego para PC y consolas** con microtransacciones  
+- Planeación de un **segundo videojuego**  
+
+### 🌐 Diseño Web
+- Página web para un **canal televisivo**, con 8 fases  
+- Enfoque en **diseño visual innovador y experiencia de usuario**
+
+</div>
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Diseño**: Adobe Suite (Photoshop, Illustrator, InDesign, After Effects)
-- **3D**: Blender
-- **Edición de video**: Premiere Pro, DaVinci Resolve  
-  
 
-<br/>  
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/vitejs.svg" alt="Vite" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/android-studio.svg" alt="Android Studio" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/power-bi.svg" alt="Power BI" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" style="margin:5px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="40" style="margin:5px;" />
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-</td><td valign="top" width="50%">
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ChenteJD&show_icons=true&count_private=true&hide_border=true" style="width:100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenteJD&hide_border=true&layout=compact" style="width:100%" />
+</td>
+</tr>
+</table>
 
+</div>
 
+---
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChenteJD&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenteJD&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ChenteJD&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
