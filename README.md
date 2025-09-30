@@ -38,29 +38,20 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 
 <div align="center">
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-
-<div style="border:2px solid #e0e0e0; border-radius:15px; padding:15px; width:280px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-<h3>🎥 Fuera de Lugar</h3>
+### 🎥 Fuera de Lugar
 - Humor sobre fútbol mexicano y Champions League  
 - Comentaristas: Pamela Rafael y Edwin Donovan  
 - Público: 12 a 35 años  
 - Plataforma: TikTok y otras redes  
-</div>
 
-<div style="border:2px solid #e0e0e0; border-radius:15px; padding:15px; width:280px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-<h3>🎮 Videojuegos</h3>
-- Desarrollo de un videojuego para **PC y consolas** con microtransacciones  
-- Planeación de un segundo videojuego futuro  
-</div>
+### 🎮 Videojuegos
+- Desarrollo de un **videojuego para PC y consolas** con microtransacciones  
+- Planeación de un **segundo videojuego**  
 
-<div style="border:2px solid #e0e0e0; border-radius:15px; padding:15px; width:280px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-<h3>🌐 Diseño Web</h3>
-- Página web para un canal televisivo en 8 fases  
-- Enfoque en diseño visual innovador y experiencia de usuario  
-</div>
+### 🌐 Diseño Web
+- Página web para un **canal televisivo**, con 8 fases  
+- Enfoque en **diseño visual innovador y experiencia de usuario**
 
-</div>
 </div>
 
 ---
