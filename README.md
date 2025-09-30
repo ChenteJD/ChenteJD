@@ -4,16 +4,16 @@
 <div align="center">
 
 <a href="https://github.com/ChenteJD" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vicente-ortega" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.behance.net/vicentejared" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/iamrishavanand" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -22,16 +22,15 @@
 
 ## 🌟 Sobre mí
 
-Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por combinar tecnología, creatividad y datos para desarrollar proyectos innovadores.  
+Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por combinar tecnología, creatividad y análisis de datos para proyectos innovadores.  
 
-**Especialidades y habilidades:**
-
+**Habilidades clave:**
 - 🎨 Diseño: Branding, identidad visual y diseño editorial  
 - 🎮 3D: Modelado para videojuegos (Blender, Unity)  
 - 💻 Programación: Python, C++, HTML, CSS, MySQL  
-- 📊 Análisis de datos: **Certificado en Power BI**  
-- 📰 Producción de contenido: Fotografía, periodismo y documentales  
-- 📌 Gestión de proyectos: Planificación, seguimiento y organización de tareas
+- 📊 Análisis de datos: **Certificación en Power BI**  
+- 📰 Contenido: Fotografía, periodismo y producción de documentales  
+- 📌 Gestión de proyectos: Planificación, seguimiento y organización de tareas  
 
 ---
 
@@ -39,20 +38,29 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 
 <div align="center">
 
-### 🎥 Fuera de Lugar
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+
+<div style="border:2px solid #e0e0e0; border-radius:15px; padding:15px; width:280px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<h3>🎥 Fuera de Lugar</h3>
 - Humor sobre fútbol mexicano y Champions League  
 - Comentaristas: Pamela Rafael y Edwin Donovan  
 - Público: 12 a 35 años  
 - Plataforma: TikTok y otras redes  
+</div>
 
-### 🎮 Videojuegos
-- Desarrollo de un **videojuego para PC y consolas** con microtransacciones  
-- Planeación de un **segundo videojuego**  
+<div style="border:2px solid #e0e0e0; border-radius:15px; padding:15px; width:280px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<h3>🎮 Videojuegos</h3>
+- Desarrollo de un videojuego para **PC y consolas** con microtransacciones  
+- Planeación de un segundo videojuego futuro  
+</div>
 
-### 🌐 Diseño Web
-- Página web para un **canal televisivo**, con 8 fases  
-- Enfoque en **diseño visual innovador y experiencia de usuario**
+<div style="border:2px solid #e0e0e0; border-radius:15px; padding:15px; width:280px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<h3>🌐 Diseño Web</h3>
+- Página web para un canal televisivo en 8 fases  
+- Enfoque en diseño visual innovador y experiencia de usuario  
+</div>
 
+</div>
 </div>
 
 ---
@@ -60,11 +68,13 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" style="margin:5px;" />
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin:5px;" />
-<img src="https://profilinator.rishav.dev/skills-assets/vitejs.svg" alt="Vite" height="40" style="margin:5px;" />
-<img src="https://profilinator.rishav.dev/skills-assets/android-studio.svg" alt="Android Studio" height="40" style="margin:5px;" />
-<img src="https://profilinator.rishav.dev/skills-assets/power-bi.svg" alt="Power BI" height="40" style="margin:5px;" />
+
+<!-- Tecnologías con animación simple -->
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin:5px; transition: transform 0.3s;" />
+<img src="https://raw.githubusercontent.com/vitejs/art/main/logo.svg" alt="Vite" height="40" style="margin:5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" height="40" style="margin:5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="Power BI" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="margin:5px;" />
@@ -73,6 +83,7 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" style="margin:5px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="40" style="margin:5px;" />
+
 </div>
 
 ---
@@ -94,5 +105,5 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 
 </div>
 
----
+
 
