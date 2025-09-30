@@ -74,7 +74,6 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, apasionado por com
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" style="margin:5px;" title="XAMPP" />
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" style="margin:5px;" title="Linux" />
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin:5px;" title="Git" />
-<img src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="40" style="margin:5px;" title="Gatsby" />
 <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" style="margin:5px;" title="Arduino" />
 <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" style="margin:5px;" title="WordPress" />
 <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" style="margin:5px;" title="Angular" />
