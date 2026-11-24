@@ -97,21 +97,6 @@ Soy **Ingeniero en Entornos Virtuales y Negocios Digitales** y **ilustrador 2D**
 
 </div>
 
----
-
-## 🐍 La serpiente de contribuciones
-
-La serpiente se come mis cubitos de contribuciones, hecha con cubitos de verdad: es un SVG animado que se genera cada día con mi calendario real de contribuciones, con el workflow de [Platane/snk](https://github.com/Platane/snk) (`.github/workflows/snake.yml` en este repo). No es una imagen simulada.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenteJD/ChenteJD/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenteJD/ChenteJD/output/github-contribution-grid-snake.svg" />
-  <img alt="Serpiente de contribuciones de ChenteJD" src="https://raw.githubusercontent.com/ChenteJD/ChenteJD/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> La serpiente aparece cuando el workflow corre por primera vez desde la pestaña **Actions**. Se actualiza sola cada día.
-
----
 
 <div align="center">
 
